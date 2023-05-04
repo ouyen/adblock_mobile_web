@@ -1,0 +1,6 @@
+! 2023-05-04 https://www.zhihu.com
+www.zhihu.com##.css-1e447mw.is-higher.OpenInAppButton
+www.zhihu.com##.HotQuestions.Card
+! 2023-05-04 https://www.zhihu.com
+www.zhihu.com##.RelatedReadings.Card
+www.zhihu.com##.KfeCollection-VipRecommendCard
